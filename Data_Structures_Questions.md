@@ -8,14 +8,6 @@ Answer the following questions for each of the data structures you implemented a
 
 3. What is the runtime complexity of `len`?
 
-## Binary Search Tree
-
-1. What is the runtime complexity of `insert`? 
-
-2. What is the runtime complexity of `contains`?
-
-3. What is the runtime complexity of `get_max`? 
-
 ## Heap
 
 1. What is the runtime complexity of `_bubble_up`?
